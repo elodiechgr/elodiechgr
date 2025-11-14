@@ -19,16 +19,16 @@ HTML • CSS • JavaScript • React • Next.js • TypeScript • Tailwind CS
 GSAP • Framer Motion • Creative coding (en progression) • Blender
 
 **Webflow**  
-Maquettes responsives • Interactions • CMS • micro-animations • intégrations no-code  
+Maquettes responsives • Interactions • CMS • Micro-animations • Intégrations no-code  
 
 **3D & Canvas**  
 React Three Fiber • Ecosystème Three.js • Canvas API  
 
 **UI & Design System**  
-shadcn/ui • architecture de composants • logique d’interfaces  
+Shadcn/ui • Architecture de composants • Logique d’interfaces  
 
 **Autres**  
-Responsive design • bonnes pratiques d’accessibilité • documentation  
+Responsive design • Bonnes pratiques d’accessibilité • Documentation  
 
 ---
 
@@ -47,7 +47,7 @@ Responsive design • bonnes pratiques d’accessibilité • documentation
 Ouverte aux collaborations et projets créatifs.
 
 📧 **hello@elodiechatelais.com**  
-🔗 **linkedin.com/in/elodie-chatelais**
+🔗 [linkedin.com/in/elodie-chatelais](https://linkedin.com/in/elodie-chatelais)
 #
 
 <!--
