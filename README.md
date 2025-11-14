@@ -16,7 +16,7 @@ J’aime transformer une idée en une expérience visuelle : un scroll fluide, u
 HTML • CSS • JavaScript • React • Next.js • TypeScript • Tailwind CSS  
 
 **Animation & Creative Coding**  
-GSAP • Framer Motion • Creative coding (en progression) • Blender (bases à intermédiaire)  
+GSAP • Framer Motion • Creative coding (en progression) • Blender
 
 **Webflow**  
 Maquettes responsives • Interactions • CMS • micro-animations • intégrations no-code  
@@ -32,7 +32,7 @@ Responsive design • bonnes pratiques d’accessibilité • documentation
 
 ---
 
-## 🧠 Qualités personnelles  
+## 🧠 Soft skills
 - Créativité  
 - Sens esthétique affirmé  
 - Rapidité d’apprentissage  
